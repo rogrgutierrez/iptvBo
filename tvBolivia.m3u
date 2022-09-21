@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATB.bo" status="online",ATBhd
-http://186.121.206.197/live/daniel/index.m3u8
-
-#EXTINF:-1 tvg-id="ATB.bo" status="online",ATBsd
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84eirw
-
-#EXTINF:-1 tvg-id="BoliviaTV.bo" status="online",BTv
-https://5ca39be538307.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIyIDQ6MDE6MzMgUE0maGFzaF92YWx1ZT1ZaEZDOE5NeEk5d1NtSS9DVDU4WXZBPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ==
 
 #EXTINF:-1 tvg-id="BoliviaTV72.bo" status="online",BTv2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-id="https://www.redbolivision.tv.bo" status="online",Bolivision LP
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="MegaTVYacuiba.bo" status="online",DTV mega
-https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Megavision.bo" status="online",Megavisión
-https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
 #EXTINF:-1 tvg-id="PAT.bo" status="online",PAT 
 https://master.tucableip.com/pat/playlist.m3u8
@@ -28,9 +14,6 @@ https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP.bo" status="online",RTP 
 https://614013e273786.streamlock.net:443/RtpBolivia/RtpBolivia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVU.bo" status="online",TVU (276p) [Not 24/7]
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnitelLaPaz.bo" status="online",Unitel Lp
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7vsfua
@@ -43,6 +26,21 @@ https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q
 
 #EXTINF:-1 tvg-id="redunoscz.bo" status="online",Red Uno SCZ 
 https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdpG8sbsy5ng9FuSfRkQGNtvQogwnS-2FNBH9fKNyw3DPT4CoKxVqGwOruicKSkRcBg&dmTs=559297&dmV1st=2D5A41703D6F5EBF69197DB306E3573C
+
+#EXTINF:-1 tvg-id="BoliviaTV.bo" status="online",BTv
+https://5ca39be538307.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIyIDQ6MDE6MzMgUE0maGFzaF92YWx1ZT1ZaEZDOE5NeEk5d1NtSS9DVDU4WXZBPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ==
+
+#EXTINF:-1 tvg-id="ATB.bo" status="online",ATBhd
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVYacuiba.bo" status="online",DTV mega
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Megavision.bo" status="online",Megavisión
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+
+#EXTINF:-1 tvg-id="tvu.umsa.bo" status="online",TvUniv
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTOTV.bo" status="online",XTOTV 
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
