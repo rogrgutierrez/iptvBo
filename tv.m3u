@@ -1,58 +1,48 @@
 #EXTM3U
-
-#EXTINF:-1 , ATB 
-
+#EXTINF:-1 tvg-id="ATB.bo" status="online",ATBhd
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 , Btv
+#EXTINF:-1 tvg-id="ATB.bo" status="online",ATBsd
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84eirw
 
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-id="BoliviaTV.bo" status="online",BTv
+https://5ca39be538307.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDIyIDQ6MDE6MzMgUE0maGFzaF92YWx1ZT1ZaEZDOE5NeEk5d1NtSS9DVDU4WXZBPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ==
 
-#EXTINF:-1 , Btv2
-
+#EXTINF:-1 tvg-id="BoliviaTV72.bo" status="online",BTv2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 , Contacto
-
-https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/playlist.m3u8
-
-
-#EXTINF:-1 , DTV mega
-
-https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
-
-#EXTINF:-1 , Bolivision LP
-
+#EXTINF:-1 tvg-id="https://www.redbolivision.tv.bo" status="online",Bolivision LP
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
-#EXTINF:-1 , Megavision 
+#EXTINF:-1 tvg-id="MegaTVYacuiba.bo" status="online",DTV mega
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Megavision.bo" status="online",Megavisión
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
-#EXTINF:-1 , PAT LP
-
+#EXTINF:-1 tvg-id="PAT.bo" status="online",PAT 
 https://master.tucableip.com/pat/playlist.m3u8
 
-#EXTINF:-1 , Red UNO LP 
+#EXTINF:-1 tvg-id="cadenaA.bo" status="online",Cadena A
+https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
-https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q5a2FfBWHpuJNWBeFf-Jf1t5l2GOwgSa5gPX5zP3GTTKB2sfOxuELO8Yu6sT_AEGe6Q&dmTs=832160&dmV1st=0EFE11DE37797630FE3A347B124F07C0
-
-#EXTINF:-1 , RTP
-
+#EXTINF:-1 tvg-id="RTP.bo" status="online",RTP 
 https://614013e273786.streamlock.net:443/RtpBolivia/RtpBolivia/playlist.m3u8
 
-#EXTINF:-1 , Unitel StaCruz
+#EXTINF:-1 tvg-id="TVU.bo" status="online",TVU (276p) [Not 24/7]
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
-https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/x7vsezg.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]&dmaid=398e04e8-7282-4092-a2a2-a9470fd85082
-
-#EXTINF:-1 , unitel 2
-
-http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
-
-#EXTINF:-1 , unitel 3
-
+#EXTINF:-1 tvg-id="UnitelLaPaz.bo" status="online",Unitel Lp
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7vsfua
 
-#EXTINF:-1 , Cadena A
+#EXTINF:-1 tvg-id="Unitel.bo" status="online",Unitel STA CRUZ
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vsezg
 
-https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="redunolpz.bo" status="online",Red Uno LPZ  
+https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q5XKxOgcduhoUvYVTWHBb3G5hQg1K4XKllgEt0yy7GQtmxRMgr2x52o0sQlXVyKlhjw&dmTs=559297&dmV1st=2D5A41703D6F5EBF69197DB306E3573C
+
+#EXTINF:-1 tvg-id="redunoscz.bo" status="online",Red Uno SCZ 
+https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdpG8sbsy5ng9FuSfRkQGNtvQogwnS-2FNBH9fKNyw3DPT4CoKxVqGwOruicKSkRcBg&dmTs=559297&dmV1st=2D5A41703D6F5EBF69197DB306E3573C
+
+#EXTINF:-1 tvg-id="XTOTV.bo" status="online",XTOTV 
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
