@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BoliviaTV72.bo"  tvg-logo="https://pbs.twimg.com/profile_images/1556760901067366402/T0wOGT7E_400x400.jpg" status="online",BTv2
+#EXTINF:-1 tvg-id="BoliviaTv2.bo"  tvg-logo="https://pbs.twimg.com/profile_images/1556760901067366402/T0wOGT7E_400x400.jpg" status="online",BTv2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoliviaTv1.bo" status="online",BTv1
@@ -12,22 +12,22 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="PAT.bo" status="online",PAT 
 https://master.tucableip.com/pat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cadenaA.bo" status="online",Cadena A
+#EXTINF:-1 tvg-id="CadenaA.bo" status="online",Cadena A
 https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RTP.bo" status="online",RTP 
 https://614013e273786.streamlock.net:443/RtpBolivia/RtpBolivia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnitelLaPaz.bo" status="online",Unitel Lpz
+#EXTINF:-1 tvg-id="UnitelLpz.bo" status="online",Unitel Lpz
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7vsfua
 
 #EXTINF:-1 tvg-id="Unitel.bo" status="online",Unitel SCZ
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vsezg
 
-#EXTINF:-1 tvg-id="redunolpz.bo" status="online",Red Uno LPZ  
+#EXTINF:-1 tvg-id="RedUNOlpz.bo" status="online",Red Uno LPZ  
 https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q5XKxOgcduhoUvYVTWHBb3G5hQg1K4XKllgEt0yy7GQtmxRMgr2x52o0sQlXVyKlhjw&dmTs=559297&dmV1st=2D5A41703D6F5EBF69197DB306E3573C
 
-#EXTINF:-1 tvg-id="redunoscz.bo" status="online",Red Uno SCZ 
+#EXTINF:-1 tvg-id="RedUNOscz.bo" status="online",Red Uno SCZ 
 https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdpG8sbsy5ng9FuSfRkQGNtvQogwnS-2FNBH9fKNyw3DPT4CoKxVqGwOruicKSkRcBg&dmTs=559297&dmV1st=2D5A41703D6F5EBF69197DB306E3573C
 
 #EXTINF:-1 tvg-id="ATB.bo" status="online",ATBhd
@@ -39,9 +39,8 @@ https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
 #EXTINF:-1 tvg-id="Megavision.bo" status="online",Megavisión
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
-#EXTINF:-1 tvg-id="tvu.umsa.bo" status="online",TvUniv
+#EXTINF:-1 tvg-id="tvUmsa.bo" status="online",TvUniv
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTOTV.bo" status="online",XTOTV 
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
-
