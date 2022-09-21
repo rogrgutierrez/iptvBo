@@ -30,6 +30,9 @@ https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q
 #EXTINF:-1 tvg-id="RedUNOscz.bo" status="online",Red Uno SCZ 
 https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdpG8sbsy5ng9FuSfRkQGNtvQogwnS-2FNBH9fKNyw3DPT4CoKxVqGwOruicKSkRcBg&dmTs=559297&dmV1st=2D5A41703D6F5EBF69197DB306E3573C
 
+#EXTINF:-1 tvg-id="ATB.bo" status="online",ATBsd
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84eirw
+
 #EXTINF:-1 tvg-id="ATB.bo" status="online",ATBhd
 http://186.121.206.197/live/daniel/index.m3u8
 
