@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 , ATB 
+
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 , Btv
+
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8 
+
+#EXTINF:-1 , Btv2
+
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 , Contacto
+
+https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/playlist.m3u8
+
+
+#EXTINF:-1 , DTV mega
+
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+
+#EXTINF:-1 , Bolivision LP
+
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 , Megavision 
+
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
+
+#EXTINF:-1 , PAT LP
+
+https://master.tucableip.com/pat/playlist.m3u8
+
+#EXTINF:-1 , Red UNO LP 
+
+https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q5a2FfBWHpuJNWBeFf-Jf1t5l2GOwgSa5gPX5zP3GTTKB2sfOxuELO8Yu6sT_AEGe6Q&dmTs=832160&dmV1st=0EFE11DE37797630FE3A347B124F07C0
+
+#EXTINF:-1 , RTP
+
+https://614013e273786.streamlock.net:443/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 , Unitel StaCruz
+
+https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/x7vsezg.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]&dmaid=398e04e8-7282-4092-a2a2-a9470fd85082
+
+#EXTINF:-1 , unitel 2
+
+http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
+
+#EXTINF:-1 , unitel 3
+
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x7vsfua
+
+#EXTINF:-1 , Cadena A
+
+https://5e50264bd6766.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8
