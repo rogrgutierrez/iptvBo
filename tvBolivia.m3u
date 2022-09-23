@@ -21,8 +21,6 @@ https://www.dailymotion.com/cdn/live/video/x828xvr.m3u8?sec=E5eBCPwkmiLRanoa0e7q
 https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdr_XA9BPOpDy7wK3h0793UTF0D1CO-kiVs1sfCxqqegZTUY8-2DtV7IX-df9XXFcmg&dmTs=982271&dmV1st=59B6311F017F52D4F675D288527FC6C4
 #EXTINF:-1 tvg-id="ATB1.bo" status="online",ATB1sd
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x84eirw
-#EXTINF:-1 tvg-id="ATB2.bo" status="online",ATB2sd
-https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 #EXTINF:-1 tvg-id="ATB2.bo" status="online",ATBhd
 http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="MegaTVYacuiba.bo" status="online",DTV mega
