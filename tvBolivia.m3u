@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="BoliviaTv2.bo" status="online",BTv2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTv1.bo" status="online",BTv1
-https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIyIDEyOjU4OjI0IFBNJmhhc2hfdmFsdWU9UHRFWnZVWXA4b1doSjlOcEtxZDNMdz09JnZhbGlkbWludXRlcz01MCZpZD0=
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664132746/ei/KlIwY6a_DJTr1AGGzoboBw/ip/2804%3Ad47%3A8497%3A4700%3A881c%3A2d5%3Ab987%3A13e7/id/pWUb-JiP63o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbc6UXJuw4sOzF4zue6GSfeqSIc7JoyUasXuXLrMv7c4CIA87E1GD_eRGUcY85zD3E-kuQGKF_CiEVWLYrTy6ZXfO/file/index.m3u8
 #EXTINF:-1 tvg-id="https://www.redbolivision.tv.bo" status="online",Bolivision Lpz
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="PAT.bo" status="online",PAT 
