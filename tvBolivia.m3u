@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="BoliviaTv2.bo"  tvg-logo="https://pbs.twimg.com/profile_images/1556760901067366402/T0wOGT7E_400x400.jpg" status="online",BTv2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-id="BoliviaTv1.bo" status="online",BTv1
-https:\\5fe2654d6127d.streamlock.net:443\boliviatv\videoboliviatv\playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNS8yMDIyIDEyOjQ5OjAxIFBNJmhhc2hfdmFsdWU9bEpqdm5hRFcxeFJBT0dsd1RQUHcvZz09JnZhbGlkbWludXRlcz01MCZpZD0=
+c2VydmVyX3RpbWU9OS8yNS8yMDIyIDEyOjQ5OjAxIFBNJmhhc2hfdmFsdWU9bEpqdm5hRFcxeFJBT0dsd1RQUHcvZz09JnZhbGlkbWludXRlcz01MCZpZD0
 #EXTINF:-1 tvg-id="https://www.redbolivision.tv.bo" status="online",Bolivision Lpz
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="PAT.bo" status="online",PAT 
